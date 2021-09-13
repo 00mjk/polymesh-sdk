@@ -463,6 +463,7 @@ export enum TransferStatus {
   CustodianError = 'CustodianError', // 170
   ScopeClaimMissing = 'ScopeClaimMissing', // 171
   TransferRestrictionFailure = 'TransferRestrictionFailure', // 172
+  InsufficientPortfolioBalance = 'InsufficientPortfolioBalance',
 }
 
 /**
